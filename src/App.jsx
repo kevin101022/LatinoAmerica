@@ -30,6 +30,11 @@ function App() {
               <div id="colors"><ColorsSection /></div>
               <div id="galeano"><GaleanoSection /></div>
               <div id="interactive-map"><InteractiveMap /></div>
+              <div id="timeline"><Timeline /></div>
+              <div id="education"><Education /></div>
+              <div id="songs"><Songs /></div>
+              <div id="story-analysis"><StoryAnalysis /></div>
+              <div id="questions"><Questions /></div>
             </>
           } />
         </Routes>

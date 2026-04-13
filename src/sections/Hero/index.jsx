@@ -45,7 +45,7 @@ const Hero = () => {
 
   return (
     <section 
-      className="relative h-[80vh] min-h-[600px] max-h-[800px] flex flex-col justify-center items-center py-10 px-6 overflow-hidden" 
+      className="relative w-full min-h-screen flex flex-col justify-center items-center py-24 px-6 overflow-hidden" 
       id="inicio"
     >
       {/* 1. Fondo e Imagen */}
@@ -60,17 +60,36 @@ const Hero = () => {
       </div>
 
       {/* 2. Contenido de la Portada */}
-      <div className="z-10 relative flex flex-col items-center w-full max-w-5xl text-center mt-6">
+      <div className="z-10 relative flex flex-col items-center justify-center w-full max-w-5xl text-center mt-6">
         
         {/* Gran Título Monumental animado por Letras */}
         <h1 
-          className="font-playfair text-[min(10vw,6rem)] lg:text-[7rem] font-bold text-white leading-none mb-8 drop-shadow-[0_4px_6px_rgba(0,0,0,1)] uppercase tracking-wide whitespace-nowrap"
+          className="font-playfair text-[min(9vw,4.5rem)] lg:text-[6rem] font-bold text-white leading-tight mb-6 drop-shadow-[0_4px_6px_rgba(0,0,0,1)] uppercase tracking-wide flex flex-wrap justify-center gap-x-[0.3em] gap-y-2"
           ref={titleRef}
         >
-          {Array.from("LATINOAMERICA").map((char, i) => (
-            <span key={i} className="letter inline-block">{char}</span>
+          {"NUESTRA AMÉRICA ESCRIBE.".split(" ").map((word, wordIndex) => (
+            <span key={wordIndex} className="inline-block whitespace-nowrap">
+              {Array.from(word).map((char, charIndex) => (
+                <span key={`${wordIndex}-${charIndex}`} className="letter inline-block">{char}</span>
+              ))}
+            </span>
           ))}
         </h1>
+
+        <motion.div 
+          className="w-full max-w-4xl text-center mb-10 px-4"
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: false }}
+          transition={{ duration: 1, delay: 0.5 }}
+        >
+          <h2 className="font-lora text-2xl md:text-3xl text-maiz mb-4 font-semibold drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]">
+            La voz de un continente que nunca dejó de escribir
+          </h2>
+          <p className="font-lora text-lg md:text-xl text-white/95 leading-relaxed drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] max-w-3xl mx-auto">
+            Desde la emancipación hasta el boom y más allá — exploramos la identidad, la resistencia y la creatividad de las letras latinoamericanas.
+          </p>
+        </motion.div>
 
         {/* Nombres del Equipo / Introducción compactos */}
         <motion.div 

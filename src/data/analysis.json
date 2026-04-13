@@ -1,0 +1,108 @@
+{
+  "story": {
+    "title": "El almohadón de plumas",
+    "author": "Horacio Quiroga",
+    "nationality": "Uruguay / Argentina",
+    "year": "1917",
+    "genre": "Cuento / Terror psicológico",
+    "movement": "Modernismo latinoamericano",
+    "synopsis": "Alicia, una joven recién casada con Jordán, un hombre frío y silencioso, enferma misteriosamente después de la boda. Su salud se deteriora de forma inexplicable hasta morir. Al examinar su habitación, el médico descubre dentro del almohadón un parásito monstruoso que había estado succionando su sangre cada noche mientras dormía.",
+    "fragments": [
+      "\"Su luna de miel fue un largo escalofrío. Rubia, angelical y tímida, el carácter duro de su marido heló sus soñadas niñerías de novia. Ella lo quería mucho, sin embargo, a veces con un ligero estremecimiento cuando volvendo de noche juntos por la calle, echaba una furtiva mirada a la alta estatura de Jordán, mudo desde hacía una hora.\"",
+      "\"[...] El médico examinó al almohadón con atención y lo abrió de un tajo. Sus plumas superiores volaron, y la enfermera dio un grito de horror. En el fondo, entre las plumas, movía lentamente las patas un animal monstruoso, una bola viviente y viscosa.\""
+    ]
+  },
+  "theory": {
+    "name": "Semiótica",
+    "theorists": "Charles S. Peirce / Roland Barthes",
+    "intro": "La semiótica estudia los signos, símbolos e íconos dentro de un texto y cómo producen significado. En este cuento, cada objeto y acción funciona como signo que apunta hacia una verdad oculta: el matrimonio como trampa, el amor que consume y el silencio como violencia simbólica. El almohadón es el símbolo central: confort aparente que esconde un parásito real."
+  },
+  "levels": [
+    {
+      "id": "literal",
+      "number": 1,
+      "title": "Literal",
+      "subtitle": "Lo que el texto dice explícitamente",
+      "tag": "Signos denotativos",
+      "icon": "ph:book-open-duotone",
+      "color": "#F5A623",
+      "blocks": [
+        {
+          "heading": "¿Quién? ¿Qué?",
+          "text": "Alicia es una joven recién casada con Jordán, un hombre frío y distante. Ella enferma progresivamente tras la boda hasta quedar postrada en cama."
+        },
+        {
+          "heading": "El descubrimiento",
+          "text": "Al morir Alicia, el médico descubre en su almohadón un parásito monstruoso que había estado succionando su sangre mientras dormía."
+        },
+        {
+          "heading": "El espacio",
+          "text": "La casa es descrita como fría, grande y silenciosa. Las habitaciones son blancas, los muebles pesados; el ambiente doméstico es opresivo desde el inicio."
+        }
+      ],
+      "signs": [
+        { "sign": "El almohadón", "meaning": "objeto de descanso" },
+        { "sign": "Las plumas", "meaning": "suavidad y confort" },
+        { "sign": "La palidez creciente de Alicia", "meaning": "deterioro físico visible" },
+        { "sign": "La sangre drenada", "meaning": "signo literal de la muerte" }
+      ]
+    },
+    {
+      "id": "inferencial",
+      "number": 2,
+      "title": "Inferencial",
+      "subtitle": "Lo que el texto sugiere",
+      "tag": "Signos connotativos y simbólicos",
+      "icon": "ph:magnifying-glass-duotone",
+      "color": "#2D6A4F",
+      "blocks": [
+        {
+          "heading": "El matrimonio como prisión",
+          "text": "\"La luna de miel fue un largo escalofrío\" es una inversión semiótica: el signo de la felicidad conyugal connota terror y sometimiento desde la primera frase."
+        },
+        {
+          "heading": "Jordán como símbolo patriarcal",
+          "text": "Su silencio, su altura y su frialdad lo convierten en un signo de dominación. No maltrata físicamente, pero su sola presencia produce \"estremecimiento\" en Alicia."
+        },
+        {
+          "heading": "El almohadón como símbolo del hogar",
+          "text": "Aquello que debía dar descanso —el matrimonio, el hogar— es en realidad lo que consume la vida de Alicia. El confort doméstico esconde el peligro real."
+        },
+        {
+          "heading": "La enfermedad como signo",
+          "text": "La palidez de Alicia no es solo síntoma físico: connota el vaciamiento de identidad de la mujer en el rol matrimonial, su lenta desaparición como sujeto."
+        }
+      ],
+      "signs": []
+    },
+    {
+      "id": "critico",
+      "number": 3,
+      "title": "Crítico",
+      "subtitle": "Aproximación semiótica profunda",
+      "tag": "Ideología, cultura y producción de sentido",
+      "icon": "ph:brain-duotone",
+      "color": "#8B1A1A",
+      "blocks": [
+        {
+          "heading": "El sistema de signos del matrimonio burgués (1917)",
+          "text": "Quiroga construye un sistema donde todos los íconos del matrimonio ideal están subvertidos. Barthes llamaría a esto una mitología: el cuento desmonta el mito romántico del hogar feliz revelando su violencia estructural oculta."
+        },
+        {
+          "heading": "El parásito como signo de la ideología patriarcal",
+          "text": "Desde la semiótica cultural, el parásito no es solo una criatura real: es el signo material de una estructura social que consume a la mujer. No es el marido quien \"mata\" a Alicia — es el sistema doméstico completo, representado por el objeto más íntimo del hogar."
+        },
+        {
+          "heading": "Quiroga y el modernismo latinoamericano",
+          "text": "En 1917, América Latina vivía tensiones entre modernización y tradición. El cuento usa el código del terror gótico (signo europeo) pero lo resignifica con una crítica social rioplatense: el verdadero monstruo es invisible, cotidiano y está dentro de casa."
+        },
+        {
+          "heading": "El silencio como signo lingüístico",
+          "text": "Jordán \"la amaba profundamente, sin darlo a conocer.\" La semiótica peirciana lo clasificaría como un símbolo convencional: en la cultura patriarcal, el hombre que no habla de amor ejerce un poder mayor que quien lo declara."
+        }
+      ],
+      "signs": []
+    }
+  ],
+  "closing": "La semiótica pregunta qué significa el almohadón como signo. La hermenéutica pregunta qué nos dice ese signo sobre la condición humana de los personajes y de nosotros mismos. El parásito no es solo un símbolo: es una forma de vida histórica encarnada en un objeto que interpela al lector a través del tiempo."
+}

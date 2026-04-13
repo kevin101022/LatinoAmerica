@@ -1,0 +1,114 @@
+{
+  "intro": "En Colombia, la enseñanza de la literatura latinoamericana está orientada por los Estándares Básicos de Competencias en Lenguaje y los Derechos Básicos de Aprendizaje (DBA) del Ministerio de Educación Nacional (MEN). El MEN establece que la literatura debe tratarse como un campo de exploración estética y cultural, no solo como pretexto para enseñar gramática.",
+  "levels": [
+    {
+      "id": "primaria",
+      "title": "Primaria",
+      "subtitle": "Grados 1° a 5° (6 a 11 años)",
+      "icon": "ph:backpack-duotone",
+      "color": "#F5A623",
+      "ciclos": [
+        {
+          "name": "Grados 1° y 2° — Primer ciclo",
+          "items": [
+            "Rondas, retahílas y coplas tradicionales colombianas y latinoamericanas.",
+            "Cuentos con ilustraciones: Rafael Pombo (Colombia) y María Elena Walsh (Argentina).",
+            "Leyendas de la tradición oral: La Llorona, El Hojarasquín, El Mohán.",
+            "Fábulas de Rafael Pombo: Simón el Bobito, El renacuajo paseador, Pastora y el lobo."
+          ]
+        },
+        {
+          "name": "Grados 3° y 4° — Segundo ciclo",
+          "items": [
+            "Cuentos de Horacio Quiroga (El loro pelado, La tortuga gigante, Las medias de los flamencos).",
+            "Mitos y leyendas precolombinas colombianas: muiscas, emberá, wayuu.",
+            "Coplas y poesía popular de regiones llanera, caribeña y andina.",
+            "Textos narrativos breves con valores culturales latinoamericanos."
+          ]
+        },
+        {
+          "name": "Grado 5° — Cierre de ciclo",
+          "items": [
+            "Cuentos de mayor complejidad narrativa.",
+            "Textos de Tomás González y Triunfo Arciniegas.",
+            "Primeras aproximaciones a García Márquez (textos adaptados para la edad).",
+            "Análisis sencillo de estructura narrativa: narrador, personajes, espacio, tiempo."
+          ]
+        }
+      ],
+      "importance": [
+        "Afirma la identidad cultural diversa — le dice al niño que su cultura tiene valor literario.",
+        "Desarrolla competencias comunicativas desde contextos cercanos y familiares.",
+        "Fomenta el pensamiento simbólico a través de mitos y leyendas precolombinas.",
+        "Conecta con la tradición oral viva del Pacífico, el Caribe, los Llanos y la Amazonia.",
+        "Cumple los DBA de lenguaje exigidos por el MEN para el ciclo."
+      ]
+    },
+    {
+      "id": "secundaria",
+      "title": "Secundaria",
+      "subtitle": "Grados 6° a 9° (11 a 15 años)",
+      "icon": "ph:books-duotone",
+      "color": "#2D6A4F",
+      "ciclos": [
+        {
+          "name": "Grados 6° y 7°",
+          "items": [
+            "Mitos y leyendas latinoamericanas con análisis literario: estructura, narrador, función cultural.",
+            "Cuentos de García Márquez: La siesta del martes, Un día de estos, El ahogado más hermoso del mundo.",
+            "Cuentos de Horacio Quiroga: naturaleza, muerte y supervivencia.",
+            "Introducción al concepto de región literaria: el Caribe, el Cono Sur, los Andes.",
+            "Coplas y décimas del folclor colombiano con análisis métrico básico."
+          ]
+        },
+        {
+          "name": "Grados 8° y 9°",
+          "items": [
+            "Cuentística latinoamericana del siglo XX: Borges, Cortázar, Rulfo, García Márquez.",
+            "Introducción al Realismo Mágico como movimiento literario latinoamericano.",
+            "Novela corta o fragmentos: Pedro Páramo (Rulfo) o El coronel no tiene quien le escriba (García Márquez).",
+            "Poesía latinoamericana: Pablo Neruda, César Vallejo, Gabriela Mistral.",
+            "Literatura de la violencia en Colombia: conflicto armado y memoria histórica."
+          ]
+        }
+      ],
+      "importance": [
+        "Forma ciudadanos críticos capaces de cuestionar el poder, la historia y la identidad.",
+        "Conecta con la historia de Colombia y América Latina: dictaduras, revoluciones, luchas sociales.",
+        "Prepara para las Pruebas Saber 9: comprensión lectora e interpretación de textos literarios.",
+        "Dignifica la producción cultural propia frente a un currículo históricamente eurocéntrico.",
+        "Aborda la memoria y la paz como herramienta para la Cátedra de la Paz (obligatoria desde 2015)."
+      ]
+    },
+    {
+      "id": "media",
+      "title": "Media",
+      "subtitle": "Grados 10° y 11° (15 a 17 años)",
+      "icon": "ph:student-bold",
+      "color": "#8B1A1A",
+      "ciclos": [
+        {
+          "name": "Grados 10° y 11° — Media vocacional",
+          "items": [
+            "Novela latinoamericana completa: Cien años de soledad, La casa de los espíritus, Rayuela, El túnel, Pedro Páramo.",
+            "El Boom latinoamericano como fenómeno literario e histórico: García Márquez, Vargas Llosa, Fuentes, Donoso, Cortázar.",
+            "Literatura colombiana en contexto latinoamericano: García Márquez, Tomás González, Marvel Moreno, Álvaro Mutis.",
+            "Ensayo latinoamericano: Nuestra América (José Martí), fragmentos de El laberinto de la soledad (Octavio Paz).",
+            "Literatura y conflicto: memoria, desplazamiento y paz en Colombia dentro del contexto latinoamericano.",
+            "Preparación para las Pruebas Saber 11."
+          ]
+        }
+      ],
+      "importance": [
+        "Profundiza la dimensión política, histórica y filosófica de la literatura.",
+        "Dignifica la producción cultural propia: García Márquez, Neruda y Vallejo como genios universales.",
+        "Aborda la memoria y la paz en el posconflicto colombiano (Cátedra de la Paz).",
+        "Prepara para las Pruebas Saber 11, donde los textos literarios latinoamericanos son centrales.",
+        "Conecta al estudiante con su continente y su identidad como sujeto histórico."
+      ]
+    }
+  ],
+  "reflection": {
+    "text": "Colombia, cuna de voces como Gabriel García Márquez, Álvaro Mutis y Marvel Moreno, posee una riqueza literaria que no solo pertenece a los libros, sino a la identidad misma del país. Enseñar literatura latinoamericana en las escuelas no es introducir un contenido externo, sino fortalecer el vínculo del estudiante con su cultura, su historia y su entorno.\n\nDesde las primeras coplas hasta las grandes novelas, cada texto se convierte en un reflejo donde los jóvenes pueden reconocerse y afirmar: 'esta historia también es mía'. Más que una asignatura, es una herramienta esencial para preservar la memoria, construir identidad y dignificar la voz de las nuevas generaciones."
+  }
+}

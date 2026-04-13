@@ -1,0 +1,95 @@
+{
+  "songs": [
+    {
+      "rank": 1,
+      "title": "La pollera colorá",
+      "artist": "Wilson Choperena",
+      "year": "c. 1960",
+      "genre": "Cumbia",
+      "country": "Colombia",
+      "countryFlag": "emojione:flag-for-colombia",
+      "icon": "ph:music-notes-duotone",
+      "color": "#F5A623",
+      "youtubeUrl": "https://youtu.be/6Infx_o0Gx0?si=r0QYSDorvRRzCowe",
+      "description": "Cumbia colombiana que se convirtió en himno del folclor costeño. Representa la alegría, el color y la identidad caribeña del país."
+    },
+    {
+      "rank": 2,
+      "title": "El cóndor pasa",
+      "artist": "Los Incas",
+      "year": "1968",
+      "genre": "Música Andina",
+      "country": "Perú",
+      "countryFlag": "emojione:flag-for-peru",
+      "icon": "ph:bird-duotone",
+      "color": "#C4501E",
+      "youtubeUrl": "https://youtu.be/dSwjrlvOeAY?si=Y-FPkiHaELiTw3rF",
+      "description": "Melodía andina de origen peruano que trascendió fronteras. Símbolo de la cosmovisión indígena latinoamericana y la libertad."
+    },
+    {
+      "rank": 3,
+      "title": "El pescador",
+      "artist": "Totó la Momposina",
+      "year": "1993",
+      "genre": "Fusión Afrocolombiana",
+      "country": "Colombia",
+      "countryFlag": "emojione:flag-for-colombia",
+      "icon": "ph:waves-duotone",
+      "color": "#2D6A4F",
+      "youtubeUrl": "https://youtu.be/3wN5YcDTx0Y?si=_oka74h1FUbkc7vV",
+      "description": "Fusión de ritmos afrocolombianos: cumbia, porro y mapalé. Representa la herencia africana en la identidad cultural de Colombia y el Caribe."
+    },
+    {
+      "rank": 4,
+      "title": "La vida es un carnaval",
+      "artist": "Celia Cruz",
+      "year": "1998",
+      "genre": "Salsa",
+      "country": "Cuba",
+      "countryFlag": "emojione:flag-for-cuba",
+      "icon": "ph:confetti-duotone",
+      "color": "#8B1A1A",
+      "youtubeUrl": "https://youtu.be/0nBFWzpWXuM?si=-cQNhns54ZM6Xkid",
+      "description": "Salsa con mensaje de resistencia y esperanza. La voz de Celia Cruz se convirtió en símbolo de la diáspora latinoamericana y la alegría como acto político."
+    },
+    {
+      "rank": 5,
+      "title": "Latinoamérica",
+      "artist": "Calle 13",
+      "year": "2011",
+      "genre": "Hip Hop / Fusión",
+      "country": "Puerto Rico",
+      "countryFlag": "emojione:flag-for-puerto-rico",
+      "icon": "ph:globe-hemisphere-west-duotone",
+      "color": "#1B6CA8",
+      "youtubeUrl": "https://youtu.be/DkFJE8ZdeG8?si=g6qap5SPdr3HUaDW",
+      "description": "Himno político y cultural del continente. Reúne sonidos, paisajes y voces de toda América Latina en una sola canción de identidad y resistencia colectiva."
+    },
+    {
+      "rank": 6,
+      "title": "La gozadera",
+      "artist": "Gente de Zona",
+      "year": "2015",
+      "genre": "Reggaetón / Salsa",
+      "country": "Cuba",
+      "countryFlag": "emojione:flag-for-cuba",
+      "icon": "ph:star-duotone",
+      "color": "#C4501E",
+      "youtubeUrl": "https://youtu.be/VMp55KH_3wo?si=UnILATeA-eEQ9GC5",
+      "description": "Fusión de reggaetón y salsa cubana. Representa la latinidad contemporánea, el orgullo caribeño y la música latina en el escenario global."
+    },
+    {
+      "rank": 7,
+      "title": "Magalenha",
+      "artist": "Sergio Mendes",
+      "year": "1992",
+      "genre": "MPB / Pop Latino",
+      "country": "Brasil",
+      "countryFlag": "emojione:flag-for-brazil",
+      "icon": "ph:planet-duotone",
+      "color": "#F5A623",
+      "youtubeUrl": "https://youtu.be/ijnujobdJ4c?si=kz0RsJfdwFw-YXZv",
+      "description": "Clásico instrumental brasileño modernizado por Sergio Mendes. Fusiona la Música Popular Brasileña con ritmos globales, representando la identidad cultural de Brasil ante el mundo."
+    }
+  ]
+}

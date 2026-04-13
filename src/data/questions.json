@@ -1,0 +1,37 @@
+{
+  "enmienda": {
+    "titulo": "ENMIENDA DE UN HOMBRE TRAS LA CULTURIZACIÓN GLOBAL. AMERICA LATINA",
+    "cita": "Las abejas son para muchos la representación de una sociedad perfecta, ellas trabajan en equipo para que su sociedad subsista, a diferencia del ser humano que prefiere que su sociedad colapse antes de renunciar así mismo.",
+    "autor": "Ivan Felipe Casadiego",
+    "cargo": "Maestría Latinoamericana"
+  },
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿La literatura latinoamericana está emancipada de la influencia europea?",
+      "respuesta": "No completamente. La emancipación es un proceso inacabado y paradójico.\n\nUno de los debates más importantes de la época independentista fue el de la \"emancipación mental\", término empleado por diversos intelectuales para describir la búsqueda de un pensamiento americano independiente, original, que escapase de los modelos españoles. En la práctica, esta tarea no pudo llevarse a cabo en su totalidad, en parte porque fue pensada casi exclusivamente por los criollos, desconocedores de las necesidades de la población indígena, y también porque la emancipación mental es un largo proceso, incompatible con la urgencia de poner en marcha las nuevas naciones.\n\nEn el siglo XX, con el Boom latinoamericano, los escritores lograron que historias enraizadas en contextos locales adquirieran un sentido universal, y América Latina, vista hasta entonces como una región periférica, se convirtió en el centro de la literatura mundial. Sin embargo, también se ha señalado que algunos textos favorecieron una visión de \"tierra mágica, caótica, violenta o primitiva\", moldeada para el consumo europeo y estadounidense.",
+      "conclusion": "La literatura latinoamericana logró una identidad propia y poderosa, pero nunca se desligó por completo de Europa. La relación es de tensión productiva, no de ruptura total."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Se emancipó la literatura latinoamericana y cayó en las garras del imperialismo cultural?",
+      "respuesta": "Sí, parcialmente. Al liberarse de España, la literatura latinoamericana quedó expuesta a nuevas formas de dependencia cultural.\n\nLa tensión entre literatura y política ha sido una constante desde la emancipación de las metrópolis imperiales. La hegemonía política y el dominio económico que el imperialismo euroccidental ejercía encontraron en la esfera cultural un nuevo campo de disputa.\n\nJulio Cortázar señalaba que entre los años 60 y 70 se estaba a puertas de un colonialismo e imperialismo cultural: en Chile y en diferentes países de Latinoamérica, lo que se leía era literatura mayoritariamente de Europa y Estados Unidos, y lo que se producía tendía a imitar un estilo extranjero sin caracteres propios.\n\nAutores latinoamericanos como Pasquali denominaron este fenómeno \"dependencia cultural\": las sociedades latinoamericanas se han caracterizado por estar bajo la dominación de otro país más potente económicamente.",
+      "conclusion": "Al liberarse del colonialismo español, la literatura latinoamericana quedó sometida a nuevas formas de dependencia: primero del imperialismo cultural europeo (Francia, especialmente), y luego del mercado editorial anglosajón y norteamericano, que decidió qué obras valían la pena canonizar."
+    }
+  ],
+  "bibliografia": [
+    { "autor": "Henríquez Ureña, P.", "año": "1949", "titulo": "Las corrientes literarias en la América Hispánica", "editorial": "Fondo de Cultura Económica. México." },
+    { "autor": "Rodó, J. E.", "año": "1900", "titulo": "Ariel", "editorial": "Montevideo.", "nota": "Clave para entender la postura antiimperialista temprana en la literatura." },
+    { "autor": "Franco, J.", "año": "2003", "titulo": "Decadencia y caída de la ciudad letrada. La literatura latinoamericana durante la guerra fría", "editorial": "Debate. Barcelona." },
+    { "autor": "Fernández Retamar, R.", "año": "1971", "titulo": "Calibán. Apuntes sobre la cultura en nuestra América", "editorial": "Editorial Diógenes. México." },
+    { "autor": "García Canclini, N.", "año": "1990", "titulo": "Culturas híbridas. Estrategias para entrar y salir de la modernidad", "editorial": "Grijalbo. México." },
+    { "autor": "Rama, Á.", "año": "1984", "titulo": "La ciudad letrada", "editorial": "Ediciones del Norte. Hanover." },
+    { "autor": "Donoso, J.", "año": "1972", "titulo": "Historia personal del boom", "editorial": "Anagrama. Barcelona." },
+    { "autor": "Mattelart, A. y Dorfman, A.", "año": "1972", "titulo": "Para leer al Pato Donald. Comunicación de masa y colonialismo", "editorial": "Siglo XXI. México." },
+    { "autor": "Pasquali, A.", "año": "1980", "titulo": "Comprender la comunicación", "editorial": "Monte Ávila. Caracas.", "nota": "Sobre la dependencia cultural." },
+    { "autor": "González Stephan, B.", "año": "1987", "titulo": "La historiografía literaria del liberalismo hispanoamericano del siglo XIX", "editorial": "Casa de las Américas. La Habana." },
+    { "autor": "Osorio, N. (ed.)", "año": "1988", "titulo": "Manifiestos, proclamas y polémicas de la vanguardia literaria hispanoamericana", "editorial": "Biblioteca Ayacucho. Caracas." },
+    { "autor": "Mignolo, W. y Castro-Gómez, S. (eds.)", "año": "1998", "titulo": "Teorías sin disciplina. Latinoamericanismo, poscolonialidad y globalización en debate", "editorial": "University of Michigan Press / Miguel Ángel Porrúa." },
+    { "autor": "Peña, I.", "año": "", "titulo": "Manual de la Literatura Latinoamericana", "editorial": "", "nota": "Fuente base de la línea de tiempo." }
+  ]
+}

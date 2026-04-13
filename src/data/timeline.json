@@ -1,1 +1,288 @@
-[]
+[
+  {
+    "id": "colonial",
+    "era": "Colonial",
+    "periodo": "1492–1700",
+    "color": "#8B1A1A",
+    "obras": [
+      {
+        "titulo": "Cartas de relación",
+        "autor": "Hernán Cortés",
+        "año": "1522",
+        "pais": "México",
+        "descripcion": "Primer testimonio epistolar de la conquista de Nueva España."
+      },
+      {
+        "titulo": "La Araucana",
+        "autor": "Alonso de Ercilla",
+        "año": "1569",
+        "pais": "Chile/España",
+        "descripcion": "Poema épico sobre la resistencia mapuche. Primer texto americano de relevancia literaria."
+      },
+      {
+        "titulo": "Historia natural y moral de las Indias",
+        "autor": "José de Acosta",
+        "año": "1590",
+        "pais": "Perú",
+        "descripcion": "Crónica que mezcla observación científica con narración etnográfica."
+      },
+      {
+        "titulo": "Comentarios reales",
+        "autor": "Inca Garcilaso de la Vega",
+        "año": "c.1600",
+        "pais": "Perú",
+        "descripcion": "Primera voz mestiza latinoamericana. Recupera la memoria inca desde dentro."
+      },
+      {
+        "titulo": "Los infortunios de Alonso Ramírez",
+        "autor": "Carlos de Sigüenza y Góngora",
+        "año": "1609",
+        "pais": "México",
+        "descripcion": "Considerado el primer texto narrativo extenso de ficción en América."
+      },
+      {
+        "titulo": "Primero sueño / Respuesta a Sor Filotea",
+        "autor": "Sor Juana Inés de la Cruz",
+        "año": "c.1680",
+        "pais": "México",
+        "descripcion": "Cima de la poesía barroca americana. Reivindicación del saber femenino."
+      }
+    ]
+  },
+  {
+    "id": "ilustracion",
+    "era": "Ilustración",
+    "periodo": "1700–1830",
+    "color": "#C4501E",
+    "obras": [
+      {
+        "titulo": "El lazarillo de ciegos caminantes",
+        "autor": "Alonso Carrió de la Vandera",
+        "año": "1776",
+        "pais": "Perú/Argentina",
+        "descripcion": "Relato de viaje irónico y crítico; prefigura la narrativa costumbrista."
+      },
+      {
+        "titulo": "Poemas neoclásicos",
+        "autor": "Andrés Bello",
+        "año": "1786",
+        "pais": "Venezuela/Chile",
+        "descripcion": "Figura fundacional de las letras independentistas. La agricultura de la zona tórrida (1826)."
+      },
+      {
+        "titulo": "Obra poética",
+        "autor": "José Joaquín Olmedo",
+        "año": "1816",
+        "pais": "Ecuador",
+        "descripcion": "La victoria de Junín: canto a Bolívar (1825), poema épico de la independencia."
+      },
+      {
+        "titulo": "El Periquillo Sarniento",
+        "autor": "José Joaquín Fernández de Lizardi",
+        "año": "1816",
+        "pais": "México",
+        "descripcion": "Primera novela latinoamericana publicada en forma de libro."
+      }
+    ]
+  },
+  {
+    "id": "romanticismo",
+    "era": "Romanticismo / Realismo",
+    "periodo": "1830–1880",
+    "color": "#F5A623",
+    "obras": [
+      {
+        "titulo": "Facundo. Civilización y barbarie",
+        "autor": "Domingo Faustino Sarmiento",
+        "año": "1845",
+        "pais": "Argentina",
+        "descripcion": "Ensayo-novela clave del romanticismo político latinoamericano."
+      },
+      {
+        "titulo": "Cecilia Valdés",
+        "autor": "Cirilo Villaverde",
+        "año": "1851",
+        "pais": "Cuba",
+        "descripcion": "Novela antiesclavista; retrato de la sociedad colonial cubana."
+      },
+      {
+        "titulo": "María",
+        "autor": "Jorge Isaacs",
+        "año": "1867",
+        "pais": "Colombia",
+        "descripcion": "La novela romántica más leída del siglo XIX en América Latina."
+      },
+      {
+        "titulo": "Martín Fierro",
+        "autor": "José Hernández",
+        "año": "1872",
+        "pais": "Argentina",
+        "descripcion": "Poema gauchesco épico; identidad nacional y marginalidad social."
+      },
+      {
+        "titulo": "Aves sin nido",
+        "autor": "Clorinda Matto de Turner",
+        "año": "1882",
+        "pais": "Perú",
+        "descripcion": "Primera novela indigenista de América Latina; denuncia la explotación del indio."
+      }
+    ]
+  },
+  {
+    "id": "modernismo",
+    "era": "Modernismo",
+    "periodo": "1880–1920",
+    "color": "#2D6A4F",
+    "obras": [
+      {
+        "titulo": "Ismaelillo",
+        "autor": "José Martí",
+        "año": "1882",
+        "pais": "Cuba",
+        "descripcion": "Precursor del modernismo. Su obra une estética y compromiso político."
+      },
+      {
+        "titulo": "Azul…",
+        "autor": "Rubén Darío",
+        "año": "1888",
+        "pais": "Nicaragua",
+        "descripcion": "Manifiesto fundacional del modernismo hispanoamericano."
+      },
+      {
+        "titulo": "Cantos de vida y esperanza",
+        "autor": "Rubén Darío",
+        "año": "1905",
+        "pais": "Nicaragua",
+        "descripcion": "Madurez del modernismo; A Roosevelt como crítica al imperialismo."
+      },
+      {
+        "titulo": "El almohadón de plumas",
+        "autor": "Horacio Quiroga",
+        "año": "1917",
+        "pais": "Uruguay/Argentina",
+        "descripcion": "Maestro del cuento de terror psicológico en el Río de la Plata."
+      },
+      {
+        "titulo": "Los heraldos negros",
+        "autor": "César Vallejo",
+        "año": "1919",
+        "pais": "Perú",
+        "descripcion": "Inicio de la renovación poética; angustia existencial y lenguaje rupturista."
+      }
+    ]
+  },
+  {
+    "id": "vanguardia",
+    "era": "Vanguardia / Boom",
+    "periodo": "1920–1975",
+    "color": "#1B6CA8",
+    "obras": [
+      {
+        "titulo": "Trilce",
+        "autor": "César Vallejo",
+        "año": "1922",
+        "pais": "Perú",
+        "descripcion": "Cumbre de la vanguardia poética latinoamericana. Lenguaje fragmentado y hermético."
+      },
+      {
+        "titulo": "Altazor",
+        "autor": "Vicente Huidobro",
+        "año": "1924",
+        "pais": "Chile",
+        "descripcion": "Poema creacionista que destruye el lenguaje para rehacer la poesía."
+      },
+      {
+        "titulo": "Ficciones",
+        "autor": "Jorge Luis Borges",
+        "año": "1944",
+        "pais": "Argentina",
+        "descripcion": "Redefinición del cuento moderno. Laberinto, biblioteca, infinito."
+      },
+      {
+        "titulo": "El reino de este mundo",
+        "autor": "Alejo Carpentier",
+        "año": "1949",
+        "pais": "Cuba",
+        "descripcion": "Introduce el real maravilloso como categoría latinoamericana."
+      },
+      {
+        "titulo": "Pedro Páramo",
+        "autor": "Juan Rulfo",
+        "año": "1955",
+        "pais": "México",
+        "descripcion": "Novela fundacional del realismo mágico. El pueblo de los muertos."
+      },
+      {
+        "titulo": "Rayuela",
+        "autor": "Julio Cortázar",
+        "año": "1963",
+        "pais": "Argentina",
+        "descripcion": "La novela experimental por excelencia del Boom. Antinovela y juego."
+      },
+      {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "año": "1967",
+        "pais": "Colombia",
+        "descripcion": "Premio Nobel 1982. Cumbre del realismo mágico y símbolo del Boom mundial."
+      },
+      {
+        "titulo": "El obsceno pájaro de la noche",
+        "autor": "José Donoso",
+        "año": "1973",
+        "pais": "Chile",
+        "descripcion": "Novela oscura y experimental; culminación del Boom desde el cono sur."
+      }
+    ]
+  },
+  {
+    "id": "posboom",
+    "era": "Posboom / Contemporánea",
+    "periodo": "1975–hoy",
+    "color": "#1A1A2E",
+    "obras": [
+      {
+        "titulo": "La casa de los espíritus",
+        "autor": "Isabel Allende",
+        "año": "1981",
+        "pais": "Chile",
+        "descripcion": "Realismo mágico con perspectiva femenina; saga familiar y dictadura."
+      },
+      {
+        "titulo": "Como agua para chocolate",
+        "autor": "Laura Esquivel",
+        "año": "1988",
+        "pais": "México",
+        "descripcion": "Fusión de lo cotidiano, lo femenino y lo mágico en formato de recetario."
+      },
+      {
+        "titulo": "Los detectives salvajes",
+        "autor": "Roberto Bolaño",
+        "año": "1996",
+        "pais": "Chile",
+        "descripcion": "Renovación del Boom desde la marginalidad; poetas y poesía como búsqueda."
+      },
+      {
+        "titulo": "El ruido de las cosas al caer",
+        "autor": "Juan Gabriel Vásquez",
+        "año": "2004",
+        "pais": "Colombia",
+        "descripcion": "Nueva narrativa colombiana post-García Márquez."
+      },
+      {
+        "titulo": "Distancia de rescate",
+        "autor": "Samanta Schweblin",
+        "año": "2010",
+        "pais": "Argentina",
+        "descripcion": "Terror ecológico; nueva narrativa fantástica contemporánea."
+      },
+      {
+        "titulo": "Las inombrables",
+        "autor": "Cristina Rivera Garza",
+        "año": "2021",
+        "pais": "México",
+        "descripcion": "Escritura forense y feminista. Premio Pulitzer 2024 en no ficción."
+      }
+    ]
+  }
+]
