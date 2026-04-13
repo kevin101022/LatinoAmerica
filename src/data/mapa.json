@@ -1,0 +1,211 @@
+[
+  {
+    "id": "MEX",
+    "name": "México",
+    "geoName": "Mexico",
+    "dish": "Mole Poblano y Tacos",
+    "book": "\"Pedro Páramo\" de Juan Rulfo",
+    "music": "Mariachi y Ranchera",
+    "religion": "Catolicismo (fuerte sincretismo)",
+    "centroid": [-102.5, 23.6],
+    "icon": "circle-flags:mx"
+  },
+  {
+    "id": "GTM",
+    "name": "Guatemala",
+    "geoName": "Guatemala",
+    "dish": "Pepián",
+    "book": "\"El Señor Presidente\" de Miguel Ángel Asturias (Nobel)",
+    "music": "Música de Marimba",
+    "religion": "Catolicismo y Evangelicalismo",
+    "centroid": [-90.2, 15.7],
+    "icon": "circle-flags:gt"
+  },
+  {
+    "id": "SLV",
+    "name": "El Salvador",
+    "geoName": "El Salvador",
+    "dish": "Pupusas",
+    "book": "\"Cuentos de barro\" de Salarrué",
+    "music": "Cumbia Salvadoreña",
+    "religion": "Catolicismo y Protestantismo",
+    "centroid": [-88.8, 13.7],
+    "icon": "circle-flags:sv"
+  },
+  {
+    "id": "HND",
+    "name": "Honduras",
+    "geoName": "Honduras",
+    "dish": "Baleadas",
+    "book": "\"Prisión Verde\" de Ramón Amaya Amador",
+    "music": "Punta",
+    "religion": "Catolicismo y Protestantismo",
+    "centroid": [-86.2, 15.2],
+    "icon": "circle-flags:hn"
+  },
+  {
+    "id": "NIC",
+    "name": "Nicaragua",
+    "geoName": "Nicaragua",
+    "dish": "Gallo Pinto Nica",
+    "book": "\"Azul...\" de Rubén Darío",
+    "music": "Son Nica y Palo de Mayo",
+    "religion": "Catolicismo",
+    "centroid": [-85.2, 12.8],
+    "icon": "circle-flags:ni"
+  },
+  {
+    "id": "CRI",
+    "name": "Costa Rica",
+    "geoName": "Costa Rica",
+    "dish": "Gallo Pinto Tico y Casado",
+    "book": "\"Cuentos de mi tía Panchita\" de Carmen Lyra",
+    "music": "Punto Guanacasteco y Calipso",
+    "religion": "Catolicismo",
+    "centroid": [-83.7, 9.7],
+    "icon": "circle-flags:cr"
+  },
+  {
+    "id": "PAN",
+    "name": "Panamá",
+    "geoName": "Panama",
+    "dish": "Sancocho Panameño",
+    "book": "\"Plenilunio\" de Rogelio Sinán",
+    "music": "Tamborito y Reggae en Español",
+    "religion": "Catolicismo",
+    "centroid": [-80.7, 8.5],
+    "icon": "circle-flags:pa"
+  },
+  {
+    "id": "CUB",
+    "name": "Cuba",
+    "geoName": "Cuba",
+    "dish": "Ropa Vieja",
+    "book": "\"El reino de este mundo\" de Alejo Carpentier",
+    "music": "Son Cubano y Salsa",
+    "religion": "Catolicismo y Santería Cubana",
+    "centroid": [-79.0, 21.5],
+    "icon": "circle-flags:cu"
+  },
+  {
+    "id": "DOM",
+    "name": "República Dominicana",
+    "geoName": "Dominican Rep.",
+    "dish": "La Bandera y Mangú",
+    "book": "\"La breve maravillosa vida de Óscar Wao\" de Junot Díaz",
+    "music": "Merengue y Bachata",
+    "religion": "Catolicismo",
+    "centroid": [-70.1, 18.7],
+    "icon": "circle-flags:do"
+  },
+  {
+    "id": "COL",
+    "name": "Colombia",
+    "geoName": "Colombia",
+    "dish": "Bandeja Paisa y Ajiaco",
+    "book": "\"Cien años de soledad\" de Gabriel García Márquez (Nobel)",
+    "music": "Cumbia y Vallenato",
+    "religion": "Catolicismo",
+    "centroid": [-74.2, 4.5],
+    "icon": "circle-flags:co"
+  },
+  {
+    "id": "VEN",
+    "name": "Venezuela",
+    "geoName": "Venezuela",
+    "dish": "Arepa y Pabellón Criollo",
+    "book": "\"Doña Bárbara\" de Rómulo Gallegos",
+    "music": "Música Llanera y Gaita Zuliana",
+    "religion": "Catolicismo",
+    "centroid": [-66.5, 6.4],
+    "icon": "circle-flags:ve"
+  },
+  {
+    "id": "ECU",
+    "name": "Ecuador",
+    "geoName": "Ecuador",
+    "dish": "Encebollado",
+    "book": "\"Huasipungo\" de Jorge Icaza",
+    "music": "Pasillo",
+    "religion": "Catolicismo",
+    "centroid": [-78.1, -1.8],
+    "icon": "circle-flags:ec"
+  },
+  {
+    "id": "PER",
+    "name": "Perú",
+    "geoName": "Peru",
+    "dish": "Ceviche y Lomo Saltado",
+    "book": "\"La ciudad y los perros\" de Mario Vargas Llosa (Nobel)",
+    "music": "Música Criolla y Huayno",
+    "religion": "Catolicismo",
+    "centroid": [-75.0, -9.1],
+    "icon": "circle-flags:pe"
+  },
+  {
+    "id": "BOL",
+    "name": "Bolivia",
+    "geoName": "Bolivia",
+    "dish": "Salteñas y Silpancho",
+    "book": "\"Raza de Bronce\" de Alcides Arguedas",
+    "music": "Música Folclórica y Caporales",
+    "religion": "Catolicismo (sincretismo andino fuerte)",
+    "centroid": [-64.6, -16.2],
+    "icon": "circle-flags:bo"
+  },
+  {
+    "id": "BRA",
+    "name": "Brasil",
+    "geoName": "Brazil",
+    "dish": "Feijoada",
+    "book": "\"Dom Casmurro\" de Machado de Assis",
+    "music": "Samba y Bossa Nova",
+    "religion": "Catolicismo, Evangelismo y Candomblé",
+    "centroid": [-51.9, -14.2],
+    "icon": "circle-flags:br"
+  },
+  {
+    "id": "PRY",
+    "name": "Paraguay",
+    "geoName": "Paraguay",
+    "dish": "Sopa Paraguaya",
+    "book": "\"Yo el Supremo\" de Augusto Roa Bastos",
+    "music": "Polca Paraguaya y Guarania",
+    "religion": "Catolicismo",
+    "centroid": [-58.4, -23.4],
+    "icon": "circle-flags:py"
+  },
+  {
+    "id": "CHL",
+    "name": "Chile",
+    "geoName": "Chile",
+    "dish": "Empanadas de Pino y Pastel de Choclo",
+    "book": "\"Canto General\" de Pablo Neruda (Nobel)",
+    "music": "Cueca y Canto Nuevo",
+    "religion": "Catolicismo y Protestantismo",
+    "centroid": [-71.5, -35.6],
+    "icon": "circle-flags:cl"
+  },
+  {
+    "id": "ARG",
+    "name": "Argentina",
+    "geoName": "Argentina",
+    "dish": "Asado y Milanesa",
+    "book": "\"Ficciones\" de Jorge Luis Borges",
+    "music": "Tango y Rock Nacional",
+    "religion": "Catolicismo",
+    "centroid": [-63.6, -38.4],
+    "icon": "circle-flags:ar"
+  },
+  {
+    "id": "URY",
+    "name": "Uruguay",
+    "geoName": "Uruguay",
+    "dish": "Chivito",
+    "book": "\"Las venas abiertas de América Latina\" de Eduardo Galeano",
+    "music": "Candombe y Murga",
+    "religion": "Secularismo fuerte y Catolicismo",
+    "centroid": [-55.3, -32.5],
+    "icon": "circle-flags:uy"
+  }
+]
