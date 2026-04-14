@@ -26,6 +26,7 @@ function App() {
           <Route path="/" element={
             <>
               <div id="hero"><Hero /></div>
+              <div id="team"><Team /></div>
               <div id="whatislatam"><WhatIsLatam /></div>
               <div id="colors"><ColorsSection /></div>
               <div id="galeano"><GaleanoSection /></div>
